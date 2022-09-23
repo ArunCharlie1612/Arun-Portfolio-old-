@@ -11,6 +11,7 @@
 	background-size: cover;
 	background-position: center;
 	background-color: #000;
+	overflow:hidden;
 	
 }
 .navbar{
@@ -119,9 +120,9 @@ button a:hover{
 }
 .content h1{
 	letter-spacing: 1px;
-	font-size: 25px;
+	font-size: 40px;
 	margin-top: 15%;
-	margin-left: 303px;
+	margin-left: 230px;
 	float: left;
 	color: white;
 	/*display: inline-block;*/
@@ -131,11 +132,12 @@ button a:hover{
 }
 .cont_1{
 	color: white;
+	width: 653px;
 	text-align: center;
 	margin-top: 16%;
-	margin-left: -38%;
+	margin-left: 7%;
 	letter-spacing: 2px;
-	font-size: 13px;	
+	font-size:20px;		
 }
 .btn_2{
 	display: flex;
